@@ -56,4 +56,4 @@ jupyter notebook ALGO_G2_SEMI_Final_ABE.ipynb
 ---
 
 ## 🏁 Results
-Successfully demonstrated a scalable approach to vehicle routing problems using evolutionary algorithms—highlighting both the flexibility of heuristic methods and the power of data visualization for logistics optimization.
+Successfully demonstrated a scalable approach to vehicle routing problems using evolutionary algorithms highlighting both the flexibility of heuristic methods and the power of data visualization for logistics optimization.
