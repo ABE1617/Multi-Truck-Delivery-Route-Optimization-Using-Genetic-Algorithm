@@ -4,7 +4,7 @@ This project explores a genetic algorithm-based solution for optimizing delivery
 
 ## 🧠 Objective
 
-To design and implement a scalable algorithm that finds efficient delivery routes for multiple trucks across a randomly generated map of cities—minimizing total travel distance and demonstrating the effectiveness of heuristic-based problem solving.
+To design and implement a scalable algorithm that finds efficient delivery routes for multiple trucks across a randomly generated map of cities minimizing total travel distance and demonstrating the effectiveness of heuristic-based problem solving.
 
 ## 💡 What I Built
 
