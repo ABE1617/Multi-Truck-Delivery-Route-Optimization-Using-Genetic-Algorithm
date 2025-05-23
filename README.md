@@ -27,10 +27,10 @@ Mutation_probability = 0.01
 ```
 ---
 
-📊 Visual Insights
+## 📊 Visual Insights
 Included heatmap visualizations for city distances and route efficiencies to help interpret the algorithm's behavior and progression across generations.
 ---
-🛠 Tech Stack
+## 🛠 Tech Stack
 Python – Core implementation
 
 NumPy – Data handling and distance calculations
@@ -39,7 +39,7 @@ Matplotlib & Seaborn – Visual analytics
 
 NetworkX – Graph-based representations of city networks
 
-🚀 How to Run
+## 🚀 How to Run
 Clone the repository:
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
@@ -54,5 +54,6 @@ Run the notebook:
 jupyter notebook ALGO_G2_SEMI_Final_ABE.ipynb
 ```
 ---
-🏁 Results
+
+## 🏁 Results
 Successfully demonstrated a scalable approach to vehicle routing problems using evolutionary algorithms—highlighting both the flexibility of heuristic methods and the power of data visualization for logistics optimization.
